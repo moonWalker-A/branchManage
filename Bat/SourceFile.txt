@@ -1,3 +1,6 @@
 İkinci file eklenmiştir.
+
+Düzenledim admin olarak
+
 --A
 --B
